@@ -54,7 +54,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Ajor-Saha/Hack4Good-Fintech-Hackathon.git
+git clone https://github.com/notfakeanshu/WealthLens.git
 ```
 
 **Installation**
